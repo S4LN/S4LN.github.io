@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Statistics for Linguistics",
@@ -7,17 +14,17 @@
     "text": "The aim of the Statistics for Linguistics Network is to bring together researchers and students in linguistics with an interest in developing and/or disseminating state-of-the-art statistical methods and open research/scholarship practices.\nIn this initial phase, the objective is to create a space for knowledge exchange and sharing of resources. Behind this objective, there is the wish to allow us to learn about each other and to learn from each other.\nFuture phases will possibly include dedicated events, such as focus groups or conferences on best statistical practices and/or teaching methods for researchers and students in linguistics."
   },
   {
+    "objectID": "index.html#github-organisation",
+    "href": "index.html#github-organisation",
+    "title": "Statistics for Linguistics",
+    "section": "GitHub Organisation",
+    "text": "GitHub Organisation\nAll communication will happen through the GitHub Organisation Discussions S4NL, available to members."
+  },
+  {
     "objectID": "index.html#join-us",
     "href": "index.html#join-us",
     "title": "Statistics for Linguistics",
     "section": "Join us!",
     "text": "Join us!\nTo join the network, please fill in this form.\nBy submitting this form you agree to your name, institution, linguistics specialisation and statistics experience/expertise being publicly listed on the S4L Network members list. Your email will not be shared.\nFor more info, get in touch with Ste Coretta at s.coretta at ed.ac.uk."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
