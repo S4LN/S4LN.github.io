@@ -1,0 +1,31 @@
+---
+title: "Members list"
+execute: 
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r}
+#| label: read-data
+
+library(tidyverse)
+library(DT)
+
+members <- read_csv("Join form (Responses) - Form responses 1.csv")
+colnames(members) <- c("timestamp", "first_name", "surname", "pronouns", "email", "institution", "webpage", "student", "specialty", "experience", "github", "consultations", "pron_include")
+
+members_clean <- members %>%
+  mutate(
+    pronouns = ifelse(pron_include == "Yes", pronouns, NA)
+  ) %>%
+  unite("name", first_name, surname, sep = " ") %>%
+  select(name, pronouns, institution, specialty, consultations, webpage)
+```
+
+```{r}
+#| label: print-data
+
+datatable(members_clean)
+```
+

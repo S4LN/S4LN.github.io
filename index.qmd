@@ -8,6 +8,8 @@ In this initial phase, the objective is to create a **space for knowledge exchan
 
 Future phases will possibly include dedicated events, such as focus groups or conferences on best statistical practices and/or teaching methods for researchers and students in linguistics.
 
+Check the members list [here](members.qmd).
+
 ## GitHub Organisation
 
 All communication will happen through the GitHub Organisation Discussions [S4NL](https://github.com/orgs/S4LN/discussions), available to members.
