@@ -19,6 +19,7 @@ members_clean <- members %>%
   mutate(
     pronouns = ifelse(pron_include == "Yes", pronouns, NA)
   ) %>%
+  arrange(surname) %>%
   unite("name", first_name, surname, sep = " ") %>%
   select(name, pronouns, institution, specialty, consultations, webpage)
 ```
