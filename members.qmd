@@ -4,6 +4,9 @@ execute:
   echo: false
   warning: false
   message: false
+format: 
+  html:
+    page-layout: full
 ---
 
 ```{r}
@@ -17,7 +20,8 @@ colnames(members) <- c("timestamp", "first_name", "surname", "pronouns", "email"
 
 members_clean <- members %>%
   mutate(
-    pronouns = ifelse(pron_include == "Yes", pronouns, NA)
+    pronouns = ifelse(pron_include == "Yes", pronouns, NA),
+    webpage = ifelse(!is.na(webpage), glue::glue("<a href='{webpage}' target='_blank'>{webpage}</a>"), "")
   ) %>%
   arrange(surname) %>%
   unite("name", first_name, surname, sep = " ") %>%
@@ -27,6 +31,6 @@ members_clean <- members %>%
 ```{r}
 #| label: print-data
 
-datatable(members_clean)
+datatable(members_clean, escape = FALSE, filter = "top", options = list(pageLength = 50))
 ```
 
