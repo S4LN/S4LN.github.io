@@ -7,3 +7,5 @@ Join form (Responses) - Form responses 1.csv
 .Ruserdata
 
 /.quarto/
+
+**/*.quarto_ipynb
