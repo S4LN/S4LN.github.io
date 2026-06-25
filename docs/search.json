@@ -1,30 +1,9 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Statistics for Linguistics Network",
     "section": "",
-    "text": "The aim of the Statistics for Linguistics Network is to bring together researchers and students in linguistics with an interest in developing and/or disseminating statistical theories and practices in linguistic research.\nCheck the members list here."
-  },
-  {
-    "objectID": "index.html#github-organisation",
-    "href": "index.html#github-organisation",
-    "title": "Statistics for Linguistics",
-    "section": "GitHub Organisation",
-    "text": "GitHub Organisation\nAll communication will happen through the GitHub Organisation Discussions S4NL, available to members."
-  },
-  {
-    "objectID": "index.html#join-us",
-    "href": "index.html#join-us",
-    "title": "Statistics for Linguistics Network",
-    "section": "Join us!",
-    "text": "Join us!\nTo join the network, please fill in this form.\nBy submitting this form you agree to your name, institution, linguistics specialisation and statistics experience/expertise being publicly listed on the S4L Network members list. Your email will not be shared.\nFor more info, get in touch with Stefano Coretta at s.coretta at ed.ac.uk."
+    "text": "The Statistics for Linguistics Network is a community of researchers with an interest in statistical theory, including statistical concepts and methods as they pertain to language research.\nThe network provides a forum for researchers interested in the development, evaluation, and application of statistical approaches to language research, philosophy of statistics, the implications of statistical assumptions and analytical choices for linguistic theory and empirical inference, and statistics education in linguistics.\nFor more info, get in touch with Stefano Coretta at s.coretta at ed.ac.uk."
   }
 ]
