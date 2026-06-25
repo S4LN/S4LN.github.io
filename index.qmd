@@ -2,8 +2,20 @@
 title: "Statistics for Linguistics Network"
 ---
 
+## Scope
+
 The **Statistics for Linguistics Network** is a community of researchers with an interest in statistical theory, including statistical concepts and methods as they pertain to language research.
 
-The network provides a forum for researchers interested in the development, evaluation, and application of statistical approaches to language research, philosophy of statistics, the implications of statistical assumptions and analytical choices for linguistic theory and empirical inference, and statistics education in linguistics.
+The network provides a forum for researchers interested in the development, evaluation, and application of statistical approaches to language research, the philosophy of statistics, the implications of statistical assumptions and analytical choices for linguistic theory and empirical inference, and statistics education in linguistics.
+
+## Aim
+
+The aim of the network is to strengthen the role of statistical thinking in language research by fostering a community engaged with the conceptual foundations, methods, and implications of statistical practice.
+
+## Mission
+
+The mission of the Statistics for Linguistics Network is to support rigorous, transparent, and theoretically informed approaches to statistical inference, and to connect researchers working on conceptual, methodological, and philosophical aspects of statistics as they relate to language research.
+
+---
 
 For more info, get in touch with Stefano Coretta at s.coretta *at* ed.ac.uk.
