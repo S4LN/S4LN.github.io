@@ -1,0 +1,35 @@
+---
+title: "Statistical Modelling and Inference for Language Research - SMILR 2027"
+subtitle: "15-17 September 2027, Online"
+format: html
+---
+
+## Scope
+
+The **Statistical Modelling and Inference for Language Research** conference (SMILR) is the flagship conference of the Statistics for Linguistics Network. It brings together researchers working at the intersection of linguistics and statistics, with a focus on the development, evaluation, and application of statistical theory and methods in language research.
+
+The conference welcomes research addressing statistical concepts and methods as they pertain to linguistic data and theory, including methodological developments, evaluation of statistical approaches, statistical modelling, experimental design, measurement, and inference. Contributions may also address the philosophical and conceptual foundations of statistical practice, the implications of statistical assumptions and analytical choices for linguistic theory and empirical inference, and the teaching and communication of statistics in linguistics.
+
+The conference is intended for researchers who engage critically with statistical methods in linguistics, whether through developing new approaches, evaluating existing ones, investigating their theoretical and inferential consequences, or applying them to substantive questions about language.
+
+Topics of interest include, but are not limited to:
+
+* development of statistical methods for linguistic data;
+* evaluation, comparison, and validation of statistical approaches;
+* statistical modelling and inference in language research;
+* experimental design, sampling, measurement, and data quality;
+* statistical assumptions and their consequences for linguistic inference;
+* the relationship between statistical and linguistic theory;
+* philosophy and conceptual foundations of statistics in linguistics;
+* reproducibility, transparency, and robustness in statistical analysis;
+* statistical practice across different areas and sub-fields of linguistics;
+* statistics education and statistical reasoning in linguistics.
+
+The conference particularly welcomes work that advances statistical thinking in linguistics, challenges established analytical practices, or examines how statistical choices shape what can be learned about language.
+
+## Important dates
+
+- 1 February 2027: Abstract submission opens.
+- 1 May 2027: Abstract submission closes.
+- 15 June 2027: Notifications of acceptance.
+- 15-17 September 2027: Conference (online).
