@@ -6,7 +6,7 @@ format: html
 
 ## Scope
 
-The **Statistical Modelling and Inference for Language Research** conference (SMILR) is the flagship conference of the Statistics for Linguistics Network. It brings together researchers working at the intersection of linguistics and statistics, with a focus on the development, evaluation, and application of statistical theory and methods in language research.
+The **Statistical Modelling and Inference for Language Research** conference (SMILR) is the flagship conference of the Statistics for Linguistics Network. It brings together researchers working at the intersection of linguistics and statistics, with a focus on the development, evaluation, application of and teaching of statistical theory and practice in language research.
 
 The conference welcomes research addressing statistical concepts and methods as they pertain to linguistic data and theory, including methodological developments, evaluation of statistical approaches, statistical modelling, experimental design, measurement, and inference. Contributions may also address the philosophical and conceptual foundations of statistical practice, the implications of statistical assumptions and analytical choices for linguistic theory and empirical inference, and the teaching and communication of statistics in linguistics.
 
