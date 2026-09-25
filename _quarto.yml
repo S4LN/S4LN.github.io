@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
-  favicon: img/s4ln-logo.png
+  favicon: img/logo-purple.png
   navbar:
-    logo: img/s4ln-logo.png
+    logo: img/logo-white.png
     left:
       - href: index.qmd
         text: Home
@@ -20,5 +20,4 @@ format:
 
 filters:
   - googlefonts
-googlefonts: ["Londrina Solid"]
-
+googlefonts: ["Londrina Solid", "Lato"]
