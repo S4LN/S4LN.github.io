@@ -3,8 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "Statistics for Linguistics"
+  favicon: img/s4ln-logo.png
   navbar:
+    logo: img/s4ln-logo.png
     left:
       - href: index.qmd
         text: Home
@@ -17,5 +18,7 @@ format:
     css: styles.css
     toc: true
 
-
+filters:
+  - googlefonts
+googlefonts: ["Londrina Solid"]
 
