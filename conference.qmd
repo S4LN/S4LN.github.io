@@ -1,8 +1,12 @@
 ---
-title: "Statistical Modelling and Inference for Language Research - SMILR 2027"
-subtitle: "15-17 September 2027, Online"
+title: "Statistical Modelling and Inference for Language Research"
+subtitle: "SMILR27"
 format: html
 ---
+
+{{< fa calendar >}} 15-17 September 2027
+
+{{< fa earth-africa >}} Online
 
 ## Scope
 
