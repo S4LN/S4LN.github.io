@@ -20,4 +20,4 @@ format:
 
 filters:
   - googlefonts
-googlefonts: ["Londrina Solid", "Lato"]
+googlefonts: ["Londrina Solid", "Exo 2"]
