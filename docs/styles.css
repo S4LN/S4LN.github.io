@@ -16,3 +16,110 @@ h2 {
   font-size: 1.5em;
   font-variant-caps: all-small-caps;
 }
+
+/* Timeline */
+
+.timeline {
+  --date-width: 200px;
+  --marker-size: 10px;
+  --line-width: 2px;
+  --column-gap: 16px;
+  --row-gap: 28px;
+  --line-colour: #ccc;
+  --marker-colour: #593196;
+
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  gap: var(--row-gap);
+}
+
+
+/* Continuous vertical line */
+
+.timeline::before {
+  content: "";
+  position: absolute;
+
+  left: calc(
+    var(--date-width) +
+    var(--column-gap) +
+    var(--marker-size) / 2
+  );
+
+  top: calc(var(--marker-size) / 2);
+  bottom: calc(var(--marker-size) / 2);
+
+  width: var(--line-width);
+  background: var(--line-colour);
+
+  transform: translateX(-50%);
+}
+
+
+/* Each timeline entry */
+
+.timeline-item {
+  position: relative;
+
+  display: grid;
+  grid-template-columns:
+    var(--date-width)
+    var(--marker-size)
+    1fr;
+
+  column-gap: var(--column-gap);
+  align-items: center;
+
+  min-height: var(--marker-size);
+}
+
+
+/* Date */
+
+.timeline-date {
+  grid-column: 1;
+  justify-self: end;
+
+  padding: 5px 12px;
+
+  border-radius: 999px;
+  background: #593196;
+
+  color: #eee;
+  font-size: 0.875rem;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+
+/* Text */
+
+.timeline-text {
+  grid-column: 3;
+  font-weight: 700;
+}
+
+
+/* Marker */
+
+.timeline-item::before {
+  content: "";
+
+  grid-column: 2;
+  grid-row: 1;
+
+  justify-self: center;
+
+  width: var(--marker-size);
+  height: var(--marker-size);
+
+  border-radius: 50%;
+  background: var(--marker-colour);
+
+  border: 5px solid white;
+  box-sizing: content-box;
+
+  z-index: 1;
+}
