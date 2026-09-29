@@ -8,13 +8,19 @@ h1 {
   font-family: "Londrina Solid";
 }
 
+.title {
+  color: #593196;
+}
+
 .subtitle.lead {
   font-family: "Londrina Solid";
+  color: #593196;
 }
 
 h2 {
   font-size: 1.5em;
   font-variant-caps: all-small-caps;
+  color: #593196;
 }
 
 /* Timeline */
