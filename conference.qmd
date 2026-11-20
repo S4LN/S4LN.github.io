@@ -33,6 +33,10 @@ Topics of interest include, but are not limited to:
 
 The conference particularly welcomes work that advances statistical thinking in linguistics, challenges established analytical practices, or examines how statistical choices shape what can be learned about language.
 
+## Fees
+
+The conference will be **free for everyone** attending.
+
 ## Important dates
 
 ```{=html}
